@@ -1,0 +1,3 @@
+G:/CPP/udpConnection/build/CMakeFiles/udpConnection.dir
+G:/CPP/udpConnection/build/CMakeFiles/edit_cache.dir
+G:/CPP/udpConnection/build/CMakeFiles/rebuild_cache.dir
